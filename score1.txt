@@ -1,1 +1,1 @@
-quite = 20
+quite = 15
